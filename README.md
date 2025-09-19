@@ -32,3 +32,6 @@ streamlit run tableau_style_dashboard.py
 
 ## The dashboard will open in your browser at:
 http://localhost:8501
+
+- **Streamlit**  
+  - Used to build and deploy the interactive dashboard interface
