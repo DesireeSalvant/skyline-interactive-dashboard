@@ -15,9 +15,9 @@ An interactive dashboard built with Streamlit, designed to help Skyline Gadgets 
 
 ## Project Structure
 
-skyline_dashboard_deploy/
-├── tableau_style_dashboard.py # Streamlit app
-└── May Cohort Sales_data.xlsx # Sales data (Excel)
+skyline_dashboard_deploy/<br>
+├── tableau_style_dashboard.py # Streamlit app <br>
+└── May Cohort Sales_data.xlsx # Sales data (Excel) <br>
 
 
 ## How to Run Locally
